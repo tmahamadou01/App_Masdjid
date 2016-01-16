@@ -32,7 +32,7 @@
 			    L.geoJson(data,{
 			      pointToLayer: function(feature,latlng){
   					var marker = L.marker(latlng,{icon: ratIcon});
-  					marker.bindPopup(feature.properties.name + '<br/>' + feature.properties.postcode);
+  					marker.bindPopup(feature.properties.name + '<br/>' + feature.properties.religion);
   					return marker;
 					}
 			    }).addTo(map);
