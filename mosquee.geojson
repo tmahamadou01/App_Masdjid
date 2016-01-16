@@ -1,0 +1,1498 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-01-16T16:05:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/93384220",
+      "properties": {
+        "@id": "way/93384220",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Grande mosquée de la Riviera",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.9789493,
+              5.3373063
+            ],
+            [
+              -3.9789165,
+              5.3372106
+            ],
+            [
+              -3.9783787,
+              5.336976
+            ],
+            [
+              -3.9780041,
+              5.3378276
+            ],
+            [
+              -3.9786047,
+              5.3380895
+            ],
+            [
+              -3.9789493,
+              5.3373063
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/106748249",
+      "properties": {
+        "@id": "way/106748249",
+        "amenity": "place_of_worship",
+        "denomination": "sunni",
+        "name": "Mosquée du Plateau",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.016223,
+              5.319011
+            ],
+            [
+              -4.0153779,
+              5.3192451
+            ],
+            [
+              -4.0154009,
+              5.3193276
+            ],
+            [
+              -4.0155364,
+              5.3198125
+            ],
+            [
+              -4.0163816,
+              5.3195785
+            ],
+            [
+              -4.016273,
+              5.3191899
+            ],
+            [
+              -4.016223,
+              5.319011
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/229571748",
+      "properties": {
+        "@id": "way/229571748",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Grande Mosquée de Williamsville",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.0204849,
+              5.3654941
+            ],
+            [
+              -4.0208684,
+              5.3650647
+            ],
+            [
+              -4.020932,
+              5.3649969
+            ],
+            [
+              -4.0212131,
+              5.3639301
+            ],
+            [
+              -4.0210426,
+              5.3638929
+            ],
+            [
+              -4.0208657,
+              5.3642572
+            ],
+            [
+              -4.0200698,
+              5.3651571
+            ],
+            [
+              -4.0204849,
+              5.3654941
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/237899445",
+      "properties": {
+        "@id": "way/237899445",
+        "amenity": "place_of_worship",
+        "barrier": "wall",
+        "name": "Grande mosquée Sans-fils",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.9620966,
+              5.3072133
+            ],
+            [
+              -3.9620996,
+              5.3061368
+            ],
+            [
+              -3.9615278,
+              5.3061397
+            ],
+            [
+              -3.9614807,
+              5.3072057
+            ],
+            [
+              -3.9620966,
+              5.3072133
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/238100650",
+      "properties": {
+        "@id": "way/238100650",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:street": "Rue C 50",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Petite Mosquée Riviéra",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.9806942,
+              5.3514564
+            ],
+            [
+              -3.9805493,
+              5.3515725
+            ],
+            [
+              -3.9806584,
+              5.3517076
+            ],
+            [
+              -3.9808033,
+              5.3515915
+            ],
+            [
+              -3.9806942,
+              5.3514564
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256014718",
+      "properties": {
+        "@id": "way/256014718",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.9875873,
+              5.306592
+            ],
+            [
+              -3.9875175,
+              5.3065546
+            ],
+            [
+              -3.9875014,
+              5.3064772
+            ],
+            [
+              -3.9874371,
+              5.3064985
+            ],
+            [
+              -3.98737,
+              5.3064691
+            ],
+            [
+              -3.9873405,
+              5.3065332
+            ],
+            [
+              -3.9872681,
+              5.3065546
+            ],
+            [
+              -3.9872815,
+              5.3066294
+            ],
+            [
+              -3.9872466,
+              5.3066855
+            ],
+            [
+              -3.9873029,
+              5.3067282
+            ],
+            [
+              -3.9873271,
+              5.3067976
+            ],
+            [
+              -3.9873888,
+              5.3067683
+            ],
+            [
+              -3.9874585,
+              5.3068057
+            ],
+            [
+              -3.9875014,
+              5.3067416
+            ],
+            [
+              -3.9875738,
+              5.3067309
+            ],
+            [
+              -3.9875524,
+              5.3066641
+            ],
+            [
+              -3.9875873,
+              5.306592
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/272893784",
+      "properties": {
+        "@id": "way/272893784",
+        "amenity": "place_of_worship",
+        "building": "mosque",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.0879367,
+              5.3541625
+            ],
+            [
+              -4.0879403,
+              5.3539586
+            ],
+            [
+              -4.0875961,
+              5.3539527
+            ],
+            [
+              -4.0875925,
+              5.3541565
+            ],
+            [
+              -4.0879367,
+              5.3541625
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/275293709",
+      "properties": {
+        "@id": "way/275293709",
+        "addr:city": "abidjan",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "Mosquée_du_CHU de Treichville",
+        "name": "Mosquée du CHU de Treichville",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.0013369,
+              5.2919317
+            ],
+            [
+              -4.0013313,
+              5.2916494
+            ],
+            [
+              -4.0008121,
+              5.2916597
+            ],
+            [
+              -4.0008178,
+              5.291942
+            ],
+            [
+              -4.0013369,
+              5.2919317
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/276427452",
+      "properties": {
+        "@id": "way/276427452",
+        "addr:city": "Yopougon",
+        "amenity": "place_of_worship",
+        "denomination": "IQRA",
+        "name": "Mosquée de Niangon",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.0911836,
+              5.3163133
+            ],
+            [
+              -4.0899874,
+              5.3166765
+            ],
+            [
+              -4.0903897,
+              5.3179691
+            ],
+            [
+              -4.0916213,
+              5.3176083
+            ],
+            [
+              -4.0911836,
+              5.3163133
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/279310671",
+      "properties": {
+        "@id": "way/279310671",
+        "amenity": "place_of_worship",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.019912,
+              5.4221442
+            ],
+            [
+              -4.0203187,
+              5.4220876
+            ],
+            [
+              -4.0202476,
+              5.4215822
+            ],
+            [
+              -4.0198409,
+              5.4216389
+            ],
+            [
+              -4.019912,
+              5.4221442
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/280065269",
+      "properties": {
+        "@id": "way/280065269",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Mosquée Soumayah",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.0983586,
+              5.3170849
+            ],
+            [
+              -4.0983894,
+              5.3169552
+            ],
+            [
+              -4.0983367,
+              5.3169428
+            ],
+            [
+              -4.0983059,
+              5.3170725
+            ],
+            [
+              -4.0983586,
+              5.3170849
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/286248270",
+      "properties": {
+        "@id": "way/286248270",
+        "amenity": "place_of_worship",
+        "barrier": "wall",
+        "name": "Mosquée du Mahou",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.9978827,
+              5.3969622
+            ],
+            [
+              -3.9979581,
+              5.3964542
+            ],
+            [
+              -3.9973246,
+              5.3964838
+            ],
+            [
+              -3.9972978,
+              5.3969274
+            ],
+            [
+              -3.9973807,
+              5.3969323
+            ],
+            [
+              -3.9977254,
+              5.3969528
+            ],
+            [
+              -3.9978827,
+              5.3969622
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/296588566",
+      "properties": {
+        "@id": "way/296588566",
+        "addr:city": "Abidjan Yopougon Maroc",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Mosquée du MAROC",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.0975686,
+              5.3405521
+            ],
+            [
+              -4.0976625,
+              5.3404266
+            ],
+            [
+              -4.0976786,
+              5.3403946
+            ],
+            [
+              -4.0976786,
+              5.3403679
+            ],
+            [
+              -4.0976759,
+              5.3403385
+            ],
+            [
+              -4.0976625,
+              5.3403064
+            ],
+            [
+              -4.0975471,
+              5.3402183
+            ],
+            [
+              -4.0974077,
+              5.3404213
+            ],
+            [
+              -4.0975686,
+              5.3405521
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/300631339",
+      "properties": {
+        "@id": "way/300631339",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.0840672,
+              5.3398193
+            ],
+            [
+              -4.0840618,
+              5.339627
+            ],
+            [
+              -4.083866,
+              5.3396244
+            ],
+            [
+              -4.0838674,
+              5.3398193
+            ],
+            [
+              -4.0840672,
+              5.3398193
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/302522903",
+      "properties": {
+        "@id": "way/302522903",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "MOSQUEE HAMZA",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.0946266,
+              5.3470446
+            ],
+            [
+              -4.0946309,
+              5.3472576
+            ],
+            [
+              -4.0948481,
+              5.3472532
+            ],
+            [
+              -4.0948438,
+              5.3470402
+            ],
+            [
+              -4.0946266,
+              5.3470446
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/327752559",
+      "properties": {
+        "@id": "way/327752559",
+        "amenity": "place_of_worship",
+        "building": "mosque",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.9547992,
+              5.348188
+            ],
+            [
+              -3.9542777,
+              5.3486818
+            ],
+            [
+              -3.9545931,
+              5.349012
+            ],
+            [
+              -3.9551146,
+              5.3485183
+            ],
+            [
+              -3.9547992,
+              5.348188
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/362149232",
+      "properties": {
+        "@id": "way/362149232",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Grande Mosquée d'Adjamé",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.0269388,
+              5.3535906
+            ],
+            [
+              -4.0267469,
+              5.3531269
+            ],
+            [
+              -4.026103,
+              5.3534194
+            ],
+            [
+              -4.0263057,
+              5.3538831
+            ],
+            [
+              -4.0269388,
+              5.3535906
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/362264849",
+      "properties": {
+        "@id": "way/362264849",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Mosquée Bilal Port-Bouet 2",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.0876813,
+              5.3467447
+            ],
+            [
+              -4.087676,
+              5.3465189
+            ],
+            [
+              -4.0874978,
+              5.346523
+            ],
+            [
+              -4.087503,
+              5.3467489
+            ],
+            [
+              -4.0876813,
+              5.3467447
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/768587386",
+      "properties": {
+        "@id": "node/768587386",
+        "amenity": "place_of_worship",
+        "denomination": "AICHA",
+        "name": "Mosquée Niangon Sud de Yopougon",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0885292,
+          5.3264295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/768587526",
+      "properties": {
+        "@id": "node/768587526",
+        "addr:city": "Yopougon",
+        "addr:street": "Boulevard Principal",
+        "amenity": "place_of_worship",
+        "name": "Mosquée Selmer",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0726903,
+          5.3349225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/844756676",
+      "properties": {
+        "@id": "node/844756676",
+        "amenity": "place_of_worship",
+        "name": "Mosquée d'Aghien",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9938421,
+          5.3825684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/844756893",
+      "properties": {
+        "@id": "node/844756893",
+        "amenity": "place_of_worship",
+        "name": "Mosquée Libanaise de Marcory",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9954772,
+          5.3062911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1335615316",
+      "properties": {
+        "@id": "node/1335615316",
+        "amenity": "place_of_worship",
+        "name": "Mosque de Treichville",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0108458,
+          5.307795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1987808328",
+      "properties": {
+        "@id": "node/1987808328",
+        "amenity": "place_of_worship",
+        "name": "Mosquée CIAD",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9507078,
+          5.3284959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2385918956",
+      "properties": {
+        "@id": "node/2385918956",
+        "addr:city": "Attécoubé",
+        "amenity": "place_of_worship",
+        "denomination": "Islam",
+        "name": "Grande Mosquée",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0346681,
+          5.3488762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2443113763",
+      "properties": {
+        "@id": "node/2443113763",
+        "amenity": "place_of_worship",
+        "name": "Grane Mosquée d'Abobo",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0122451,
+          5.422649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2470273915",
+      "properties": {
+        "@id": "node/2470273915",
+        "addr:city": "Attécoubé",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Mosquee de Toits-Rouges",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0550711,
+          5.3299995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2499932614",
+      "properties": {
+        "@id": "node/2499932614",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9833506,
+          5.4060581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2761136589",
+      "properties": {
+        "@id": "node/2761136589",
+        "amenity": "place_of_worship",
+        "name": "An Nour",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9426744,
+          5.3148929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2763733404",
+      "properties": {
+        "@id": "node/2763733404",
+        "amenity": "place_of_worship",
+        "name": "Mosquée du 05",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9451704,
+          5.3102102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2763868242",
+      "properties": {
+        "@id": "node/2763868242",
+        "amenity": "place_of_worship",
+        "name": "mosquée",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9459791,
+          5.306734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2763933875",
+      "properties": {
+        "@id": "node/2763933875",
+        "amenity": "place_of_worship",
+        "name": "mosqée",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9467351,
+          5.3020686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2960509008",
+      "properties": {
+        "@id": "node/2960509008",
+        "amenity": "place_of_worship",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8832768,
+          5.3574972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3017000129",
+      "properties": {
+        "@id": "node/3017000129",
+        "amenity": "place_of_worship",
+        "name": "Mosquée du Marché Gouro",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0233035,
+          5.3494904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3017000130",
+      "properties": {
+        "@id": "node/3017000130",
+        "amenity": "place_of_worship",
+        "name": "Mosquée",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0215697,
+          5.3511393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3017000131",
+      "properties": {
+        "@id": "node/3017000131",
+        "addr:city": "Adjamé",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:street": "Rue C36",
+        "amenity": "place_of_worship",
+        "is_in": "Adjamé; Abidjan; Côte d'Ivoire",
+        "name": "Mosquée",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0188124,
+          5.353365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3047104120",
+      "properties": {
+        "@id": "node/3047104120",
+        "amenity": "place_of_worship",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9676723,
+          5.3046834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3137591690",
+      "properties": {
+        "@id": "node/3137591690",
+        "amenity": "place_of_worship",
+        "name": "Mosquee",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9683106,
+          5.2988439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3174960716",
+      "properties": {
+        "@id": "node/3174960716",
+        "amenity": "place_of_worship",
+        "name": "Magic System",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9764604,
+          5.3075116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3177106069",
+      "properties": {
+        "@id": "node/3177106069",
+        "amenity": "place_of_worship",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.026431,
+          5.3603613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3177106078",
+      "properties": {
+        "@id": "node/3177106078",
+        "amenity": "place_of_worship",
+        "name": "As Sahaba",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0221549,
+          5.356073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3202358724",
+      "properties": {
+        "@id": "node/3202358724",
+        "amenity": "place_of_worship",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9663124,
+          5.3087834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3202385288",
+      "properties": {
+        "@id": "node/3202385288",
+        "amenity": "place_of_worship",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9705794,
+          5.3108194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3281935296",
+      "properties": {
+        "@id": "node/3281935296",
+        "amenity": "place_of_worship",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0182704,
+          5.4263655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3282093091",
+      "properties": {
+        "@id": "node/3282093091",
+        "amenity": "place_of_worship",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0073676,
+          5.4198391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3284931353",
+      "properties": {
+        "@id": "node/3284931353",
+        "amenity": "place_of_worship",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0133412,
+          5.4189018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3291128402",
+      "properties": {
+        "@id": "node/3291128402",
+        "amenity": "place_of_worship",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0609629,
+          5.4464922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3344337753",
+      "properties": {
+        "@id": "node/3344337753",
+        "amenity": "place_of_worship",
+        "name": "Grande mosquée de la Riviera",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9785327,
+          5.3374639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3345657306",
+      "properties": {
+        "@id": "node/3345657306",
+        "amenity": "place_of_worship",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9546954,
+          5.3486015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3369180115",
+      "properties": {
+        "@id": "node/3369180115",
+        "addr:city": "abidjan",
+        "amenity": "place_of_worship",
+        "denomination": "Musulman",
+        "name": "Mosquée Sangaré",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.940879,
+          5.3074681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3387586428",
+      "properties": {
+        "@id": "node/3387586428",
+        "amenity": "place_of_worship",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0092959,
+          5.4384715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3401914852",
+      "properties": {
+        "@id": "node/3401914852",
+        "amenity": "place_of_worship",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0789124,
+          5.34864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3567075566",
+      "properties": {
+        "@id": "node/3567075566",
+        "amenity": "place_of_worship",
+        "building": "mosque",
+        "denomination": "sunni",
+        "name": "Mosquee Sunnite",
+        "opening_hours": "24/7",
+        "religion": "muslim",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0131667,
+          5.3987564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3567077396",
+      "properties": {
+        "@id": "node/3567077396",
+        "amenity": "place_of_worship",
+        "name": "Ecole Coranique",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.013085,
+          5.3985166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3567172639",
+      "properties": {
+        "@id": "node/3567172639",
+        "amenity": "place_of_worship",
+        "building": "mosque",
+        "name": "Mosquee Sa'Ad ibn Wakass",
+        "opening_hours": "24/7",
+        "religion": "muslim",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0107838,
+          5.3960936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3586331587",
+      "properties": {
+        "@id": "node/3586331587",
+        "amenity": "place_of_worship",
+        "building": "mosque",
+        "name": "Mosquee Kone",
+        "religion": "muslim",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0118058,
+          5.3943008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3618208464",
+      "properties": {
+        "@id": "node/3618208464",
+        "amenity": "place_of_worship",
+        "name": "UNA mosquée",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0202139,
+          5.395629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3781514514",
+      "properties": {
+        "@id": "node/3781514514",
+        "amenity": "place_of_worship",
+        "name": "mosqué",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9545093,
+          5.3021758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3936405762",
+      "properties": {
+        "@id": "node/3936405762",
+        "amenity": "place_of_worship",
+        "name": "Mosquée du Koweit",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0510134,
+          5.3220854
+        ]
+      }
+    }
+  ]
+}
